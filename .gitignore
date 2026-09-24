@@ -1,4 +1,7 @@
-.venv/
-__pycache__/
-data/*.csv
-.DS_Store
+external/
+build/
+.vs/
+*.pdb
+*.exe
+*.dll
+*.zip
